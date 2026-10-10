@@ -3,7 +3,8 @@
 Documentation and support for the Atlassian Marketplace app **Space Answers for Confluence**.
 
 - Documentation: https://madaegypt.github.io/space-answers/
-- Support requests: https://github.com/MadaEgypt/space-answers/issues
+- Support requests: https://mada950.atlassian.net/servicedesk/customer/portal/1
+- Public issue tracker: https://github.com/MadaEgypt/space-answers/issues
 - Privacy policy: https://madaegypt.github.io/space-answers/privacy
 - Terms: https://madaegypt.github.io/space-answers/terms
 

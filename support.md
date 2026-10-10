@@ -6,8 +6,8 @@ Space Answers for Confluence is supported by its developer, Rabab Ismail Ahmed K
 
 ## Get help
 
-- **Open a support request:** [github.com/MadaEgypt/space-answers/issues/new](https://github.com/MadaEgypt/space-answers/issues/new). Requests are public; do not include confidential content.
-- **Email:** pythonsc2030@gmail.com — use email for anything you do not want to post publicly, including security reports.
+- **Open a support request:** [Space Answers Support portal](https://mada950.atlassian.net/servicedesk/customer/portal/1). Enter your email address to sign up or log in, then choose the kind of request. Requests are private: only you and the developer see them, and replies reach you by email.
+- **Email:** pythonsc2030@gmail.com — for security reports, or if you cannot use the portal.
 
 ## What to include
 
@@ -15,9 +15,9 @@ Space Answers for Confluence is supported by its developer, Rabab Ismail Ahmed K
 - What you did, what you expected and what happened instead, with the exact message the app showed.
 - Whether you are a site admin, a space admin or a member.
 
-## Known requests and fixes
+## Known issues
 
-See the [list of open and closed requests](https://github.com/MadaEgypt/space-answers/issues).
+Confirmed bugs and their fixes are listed in the [public issue tracker](https://github.com/MadaEgypt/space-answers/issues).
 
 ## Before you write
 
