@@ -1,4 +1,4 @@
-[Documentation](index.md) · [Support](support.md) · [Privacy policy](privacy.md) · [Terms](terms.md)
+[Documentation](index.md) · [Demo video](demo.md) · [Support](support.md) · [Privacy policy](privacy.md) · [Terms](terms.md)
 
 # Space Answers for Confluence — Privacy Policy
 
