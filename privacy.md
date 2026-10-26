@@ -4,7 +4,7 @@
 
 Last updated: 10 October 2026
 
-Space Answers for Confluence ("the app") is provided by RojyMart (Rabab Ismail Ahmed Kamel, self-employed software developer, Madrid, Spain) ("we"). Contact: support@rojymart.com.
+Space Answers for Confluence ("the app") is provided by RojyMart, a software studio in Madrid, Spain ("we"). Contact: support@rojymart.com.
 
 ## What the app stores
 

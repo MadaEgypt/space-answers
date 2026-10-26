@@ -4,7 +4,7 @@
 
 Last updated: 9 October 2026
 
-Space Answers for Confluence ("the app") is provided by RojyMart (Rabab Ismail Ahmed Kamel, Madrid, Spain). Contact: support@rojymart.com.
+Space Answers for Confluence ("the app") is provided by RojyMart (Madrid, Spain). Contact: support@rojymart.com.
 
 1. **Use.** You may install and use the app on the Atlassian Confluence Cloud sites you administer, under the Atlassian Marketplace terms that apply to your purchase or trial.
 2. **Your content.** Questions and answers belong to you. The app stores them only in your Confluence site; see the Privacy Policy.

@@ -2,7 +2,7 @@
 
 # Support
 
-Space Answers for Confluence is supported by its developer, RojyMart (Rabab Ismail Ahmed Kamel, Madrid, Spain).
+Space Answers for Confluence is supported by its developer, RojyMart (Madrid, Spain).
 
 ## Get help
 
