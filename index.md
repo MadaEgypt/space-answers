@@ -4,7 +4,7 @@
 
 Questions and answers in each Confluence space. Every question has a Confluence page with all its answers, so Confluence search finds them.
 
-Provided by Rabab Ismail Ahmed Kamel, Madrid, Spain. Support: see the [Support](support.md) page.
+Provided by RojyMart (Rabab Ismail Ahmed Kamel), Madrid, Spain. Support: see the [Support](support.md) page.
 
 ## Quick start
 

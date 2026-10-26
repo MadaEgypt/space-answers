@@ -2,12 +2,13 @@
 
 # Support
 
-Space Answers for Confluence is supported by its developer, Rabab Ismail Ahmed Kamel (Madrid, Spain).
+Space Answers for Confluence is supported by its developer, RojyMart (Rabab Ismail Ahmed Kamel, Madrid, Spain).
 
 ## Get help
 
 - **Open a support request:** [Space Answers Support portal](https://mada950.atlassian.net/servicedesk/customer/portal/1). Enter your email address to sign up or log in, then choose the kind of request. Requests are private: only you and the developer see them, and replies reach you by email.
-- **Email:** pythonsc2030@gmail.com — for security reports, or if you cannot use the portal.
+- **Email:** support@rojymart.com — for security reports, or if you cannot use the portal.
+- **Hours:** Monday to Friday, 9:00–17:00 (Europe/Madrid). First reply within 24 hours on those days.
 
 ## What to include
 

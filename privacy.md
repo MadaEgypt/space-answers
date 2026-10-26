@@ -4,7 +4,7 @@
 
 Last updated: 10 October 2026
 
-Space Answers for Confluence ("the app") is provided by Rabab Ismail Ahmed Kamel, self-employed software developer, Madrid, Spain ("we"). Contact: pythonsc2030@gmail.com.
+Space Answers for Confluence ("the app") is provided by RojyMart (Rabab Ismail Ahmed Kamel, self-employed software developer, Madrid, Spain) ("we"). Contact: support@rojymart.com.
 
 ## What the app stores
 
