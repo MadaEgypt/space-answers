@@ -1,4 +1,4 @@
-[Documentation](index.md) · [Demo video](demo.md) · [Support](support.md) · [Privacy policy](privacy.md) · [Terms](terms.md)
+[Documentation](index.md) · [Demo video](demo.md) · [Switching from Questions for Confluence](switch-from-questions-for-confluence.md) · [Support](support.md) · [Privacy policy](privacy.md) · [Terms](terms.md)
 
 # Demo video
 

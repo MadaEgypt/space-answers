@@ -1,4 +1,4 @@
-[Documentation](index.md) · [Demo video](demo.md) · [Support](support.md) · [Privacy policy](privacy.md) · [Terms](terms.md)
+[Documentation](index.md) · [Demo video](demo.md) · [Switching from Questions for Confluence](switch-from-questions-for-confluence.md) · [Support](support.md) · [Privacy policy](privacy.md) · [Terms](terms.md)
 
 # Documentation
 
@@ -8,7 +8,7 @@ Provided by RojyMart, Madrid, Spain. Support: see the [Support](support.md) page
 
 ## Quick start
 
-1. A site admin installs **Space Answers for Confluence** from the Atlassian Marketplace.
+1. A site admin installs **Space Answers for Confluence** from the [Atlassian Marketplace](https://rojymart.com/go/docs/quickstart).
 2. In a space, a space admin opens **Space settings → Integrations → Space Answers** and clicks **Enable in this space**.
 3. On the same page, choose the groups that can ask and answer, and click **Save**.
 4. Open **Questions** in the space sidebar and click **Ask a question**.
@@ -81,3 +81,8 @@ Questions and answers are stored as content in your Confluence site. Atlassian's
 ## Not included
 
 Moving questions over from Questions for Confluence, importing or exporting questions, merging duplicates, a macro for embedding questions in other pages, uploading images into questions and answers, voting, tags and reputation points, answer edit history, a view made for the Confluence mobile app, guest and anonymous users, and Data Center or Server.
+
+## More
+
+- [How to make Confluence search find your team's answers](confluence-search-find-answers.md)
+- [Switching from Questions for Confluence](switch-from-questions-for-confluence.md)
