@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://madaegypt.github.io/space-answers/sitemap.xml

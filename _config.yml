@@ -2,3 +2,8 @@ title: Space Answers for Confluence
 description: Questions and answers in each Confluence space, found by Confluence search
 theme: jekyll-theme-minimal
 logo: logo.png
+url: https://madaegypt.github.io
+baseurl: /space-answers
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

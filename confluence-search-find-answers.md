@@ -32,3 +32,5 @@ Some tools match only the question's title. A question titled "Error on login" w
 The fixes above depend on people remembering to do them. The structural fix is to give every question a normal Confluence page that holds the question and all its answers, updated whenever an answer changes. Then Confluence's normal search finds any word in any answer, with no filter and no habit change.
 
 That's how [Space Answers for Confluence](https://rojymart.com/go/docs/search-article) works (we make it): each space gets a Questions page, the groups you choose ask and answer, the asker accepts the answer that worked, and every question gets a page in the space's tree that only the app can edit. Confluence search then finds the answer by any word in it. If you're coming from Atlassian's Questions for Confluence, see [what's different and how to switch](switch-from-questions-for-confluence.md).
+
+See also: [how to create an FAQ page in Confluence](how-to-create-faq-page-confluence.md) and [Q&A in Confluence: the options](confluence-q-and-a.md).
