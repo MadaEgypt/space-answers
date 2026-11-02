@@ -7,3 +7,4 @@ baseurl: /space-answers
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+google_site_verification: QHO-VNcySmM6dU6EnNJc864WKTNnAD0nh_VfGbRqpzs
