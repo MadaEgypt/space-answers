@@ -88,3 +88,4 @@ Moving questions over from Questions for Confluence, importing or exporting ques
 - [Switching from Questions for Confluence](switch-from-questions-for-confluence.md)
 - [How to create an FAQ page in Confluence that stays up to date](how-to-create-faq-page-confluence.md)
 - [Q&A in Confluence: templates, macros and apps compared](confluence-q-and-a.md)
+- [Confluence search not working? Six things to check](confluence-search-not-working.md)
