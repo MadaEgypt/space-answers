@@ -33,4 +33,4 @@ The fixes above depend on people remembering to do them. The structural fix is t
 
 That's how [Space Answers for Confluence](https://rojymart.com/go/docs/search-article) works (we make it): each space gets a Questions page, the groups you choose ask and answer, the asker accepts the answer that worked, and every question gets a page in the space's tree that only the app can edit. Confluence search then finds the answer by any word in it. If you're coming from Atlassian's Questions for Confluence, see [what's different and how to switch](switch-from-questions-for-confluence.md).
 
-See also: [how to create an FAQ page in Confluence](how-to-create-faq-page-confluence.md) [Q&A in Confluence: the options](confluence-q-and-a.md) and [Confluence search not working? Six things to check](confluence-search-not-working.md).
+See also: [how to create an FAQ page in Confluence](how-to-create-faq-page-confluence.md), [Q&A in Confluence: the options](confluence-q-and-a.md) and [Confluence search not working? Six things to check](confluence-search-not-working.md).
