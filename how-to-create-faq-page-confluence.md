@@ -1,6 +1,6 @@
 ---
-title: How to create an FAQ page in Confluence that stays up to date
-description: Three ways to build an FAQ in Confluence Cloud with built-in features (one page with expand sections, one page per question with labels, a template), and how to keep it from going stale.
+title: "Confluence FAQ page: macros, template and an example that stays up to date"
+description: There is no FAQ macro in Confluence Cloud. Three ways to build an FAQ with the built-in Expand and Content by label macros and a page template, with an example, and how to keep it from going stale.
 ---
 
 [Documentation](index.md) · [Demo video](demo.md) · [Switching from Questions for Confluence](switch-from-questions-for-confluence.md) · [Support](support.md) · [Privacy policy](privacy.md) · [Terms](terms.md)
@@ -8,6 +8,14 @@ description: Three ways to build an FAQ in Confluence Cloud with built-in featur
 # How to create an FAQ page in Confluence
 
 An FAQ in Confluence is easy to start and hard to keep alive. The page gets written once, new questions go to chat or email, and six months later half the answers are out of date. Below are three ways to build one with what Confluence Cloud already has, what each is good for, and what keeps any of them current.
+
+## Is there an FAQ macro in Confluence?
+
+Not under that name. When people look for a "Confluence FAQ macro" they usually need one of three built-in macros:
+
+- **Expand**: a question that opens to show its answer (layout 1 below).
+- **Content by label**: an automatic list of every page with a given label, so each question can be its own page (layout 2).
+- **Table of contents**: links to each group of questions at the top of a long FAQ page.
 
 ## 1. One page, one expand section per question
 
@@ -34,6 +42,23 @@ Now each question is its own search result, with the question as the title, whic
 ## 3. A template so new questions look the same
 
 Whichever layout you chose, a page template keeps answers consistent. Create a space template with three headings, **Question**, **Answer** and **Last checked**, and ask people to use it when they add a question. The *Last checked* date is the one that matters: it shows readers how fresh the answer is, and it gives the FAQ owner a list to review.
+
+An example question page made from that template:
+
+```
+Title: How do I connect to the VPN from home?
+
+Question
+  I'm working from home and the VPN client says "authentication failed".
+
+Answer
+  Open the VPN client, choose "Home profile", and sign in with your
+  normal work password. If it still fails, reset your password in the
+  self-service portal; the VPN uses the new one within 10 minutes.
+
+Last checked
+  12 Nov 2026, IT team
+```
 
 ## Keeping an FAQ current
 

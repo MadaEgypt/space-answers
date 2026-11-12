@@ -37,6 +37,29 @@ An app from the Atlassian Marketplace gives Confluence a real place to ask, answ
 - **Atlassian's Questions for Confluence** keeps one site-wide Q&A area with topics and voting. Users in its reviews report that search finds question titles but not words that appear only in answers. [How it compares, and how to switch](switch-from-questions-for-confluence.md).
 - **[Space Answers for Confluence](https://rojymart.com/go/docs/qa-article)** (we make it) puts a Questions page in each space. A space admin picks which groups may ask and which may answer; the asker accepts the answer that worked, and it is shown first. Every question has a normal Confluence page with all its answers, so Confluence search finds any word in an answer. Data stays in your Confluence site (it runs on Atlassian's Forge platform).
 
+## A questions and answers template you can copy
+
+If you start with pages, make every question its own page from one template. Create it under **Space settings → Templates**, and give each page the label `qa` so a **Content by label** macro on a parent page lists them all.
+
+```
+Title: the question, written the way people will search for it
+
+Question
+  The details: what the person tried, the error message, the system.
+  Asked by @name on <date>
+
+Answers
+  One heading per answer, with the name of the person who wrote it.
+
+Accepted answer
+  The answer that solved it, copied here so readers see it first.
+
+Last checked
+  <date>, <owner>
+```
+
+The weak spot is the *Accepted answer* section: someone has to copy it in by hand and keep it current. That is the part a Q&A app does for you.
+
 ## Which one to use
 
 | If your team… | Use |
